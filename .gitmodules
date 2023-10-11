@@ -5,6 +5,9 @@
 [submodule "RMT4DS"]
 	path = RMT4DS
 	url = https://github.com/cran/RMT4DS
+[submodule "SIMle"]
+	path = SIMle
+	url = https://github.com/cran/SIMle
 [submodule "Sie2nts"]
 	path = Sie2nts
 	url = https://github.com/cran/Sie2nts
